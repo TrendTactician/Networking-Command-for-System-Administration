@@ -53,4 +53,4 @@
 | 49 | `ip link` | Manages network interfaces and link properties on Linux systems. |
 | 50 | `netsh` | Configures Windows networking components, including interfaces, firewall, and routing. |
 
-**Please Note : There are many more linux command that are used by system adminstrator these are only few of them.**
+**Please Note : There are many more Networking Commands that are used by system adminstrator these are only few of them.**
