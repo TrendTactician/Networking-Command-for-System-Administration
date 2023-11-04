@@ -2,16 +2,16 @@
 
 | Sr. No | Command | Definition |
 | :---: | :---: | :--- |
-| 1 | ipconfig | Displays the IP configuration of your computer, including IP address, subnet mask, and default gateway. |
-| 2 | ping | Tests the connection between your computer and another computer or network device. |
-| 3 | tracert | Traces the route taken by network packets from your computer to a destination IP address or domain. |
-| 4 | nslookup | Retrieves information about a domain or IP address from a DNS server. |
-| 5 | netstat | Shows active network connections, listening ports, and network statistics. |
-| 6 | pathping | Provides information about the quality of your network connection to a specific IP address or domain. |
-| 7 | arp | Displays and modifies the ARP (Address Resolution Protocol) cache, which maps IP addresses to MAC addresses. |
-| 8 | route | Allows you to view and modify the IP routing table. |
-| 9 | hostname | Displays the name of your computer. |
-| 10 | ifconfig | Displays the IP configuration of network interfaces on Linux and macOS systems. |
+| 1 | 'ipconfig' | Displays the IP configuration of your computer, including IP address, subnet mask, and default gateway. |
+| 2 | 'ping' | Tests the connection between your computer and another computer or network device. |
+| 3 | 'tracert' | Traces the route taken by network packets from your computer to a destination IP address or domain. |
+| 4 | 'nslookup' | Retrieves information about a domain or IP address from a DNS server. |
+| 5 | 'netstat' | Shows active network connections, listening ports, and network statistics. |
+| 6 | 'pathping' | Provides information about the quality of your network connection to a specific IP address or domain. |
+| 7 | 'arp' | Displays and modifies the ARP (Address Resolution Protocol) cache, which maps IP addresses to MAC addresses. |
+| 8 | 'route' | Allows you to view and modify the IP routing table. |
+| 9 | 'hostname' | Displays the name of your computer. |
+| 10 | 'ifconfig' | Displays the IP configuration of network interfaces on Linux and macOS systems. |
 | 11 | iwconfig | Displays the wireless network configuration on Linux systems. |
 | 12 | ssh | Connects to a remote computer securely using the SSH (Secure Shell) protocol. |
 | 13 | telnet | Establishes a connection to a remote computer using the Telnet protocol. |
