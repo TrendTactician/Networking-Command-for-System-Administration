@@ -1,6 +1,6 @@
 # Networking Command for System Administration
 
-| Sr. No | Command | Definition |
+| Sr. No | Command | :Definition: |
 | :---: | :---: | :--- |
 | 1 | `ipconfig` | Displays the IP configuration of your computer, including IP address, subnet mask, and default gateway. |
 | 2 | `ping` | Tests the connection between your computer and another computer or network device. |
